@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Le Hoang</h1>
-<h3 align="center">Entry Level Data Engineer | Seeking Full-Time Data Engineer Job | Python, Java, C++, PostgreSQL, IBM Db2 | 2025 Graduation</h3>
+<h3 align="center">Entry Level Data Engineer | Seeking Full-Time Data Engineer Job | Python, Java, C++, PostgreSQL, IBM Db2 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slowjii&label=Profile%20views&color=0e75b6&style=flat" alt="slowjii" /> </p>
 
