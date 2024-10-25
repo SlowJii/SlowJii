@@ -23,3 +23,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slowjii&show_icons=true&locale=en" alt="slowjii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slowjii&" alt="slowjii" /></p>
+<h3 align="center">Here's a fun GIF!</h3>
+
+<p align="center">
+  <img src="https://github.com/SlowJii/SlowJii/raw/main/kha_banh_2.gif" alt="funny gif" style="border-radius: 50%; width: 200px; height: 200px;">
+</p>
+
