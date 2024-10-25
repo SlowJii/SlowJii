@@ -23,9 +23,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slowjii&show_icons=true&locale=en" alt="slowjii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slowjii&" alt="slowjii" /></p>
-<h3 align="center">Here's a fun GIF!</h3>
+
+
+<h3 align="center">Look at this !</h3>
 
 <p align="center">
-  <img src="https://github.com/SlowJii/SlowJii/raw/main/kha_banh_2.gif" alt="funny gif" style="border-radius: 50%; width: 200px; height: 200px;">
+  <img src="https://github.com/SlowJii/SlowJii/raw/main/dog-dancing.gif" alt="dog dancing left" style="border-radius: 50%; width: 200px; height: 200px; display: inline-block; margin: 10px;">
+  <img src="https://github.com/SlowJii/SlowJii/raw/main/pepe_cuoi_cho.gif" alt="pepe laughing" style="border-radius: 50%; width: 200px; height: 200px; display: inline-block; margin: 10px;">
+  <img src="https://github.com/SlowJii/SlowJii/raw/main/dog-dancing-ezgif.com-reverse.gif" alt="dog dancing right" style="border-radius: 50%; width: 200px; height: 200px; display: inline-block; margin: 10px;">
 </p>
+
 
