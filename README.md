@@ -28,9 +28,9 @@
 <h3 align="center">Look at this !</h3>
 
 <p align="center">
-  <img src="https://github.com/SlowJii/SlowJii/raw/main/dog-dancing.gif" alt="dog dancing left" style="border-radius: 50%; width: 200px; height: 200px; display: inline-block; margin: 10px;">
+  <img src="https://github.com/SlowJii/SlowJii/raw/main/dog-dancing-unscreen.gif" alt="dog dancing left" style="border-radius: 50%; width: 200px; height: 200px; display: inline-block; margin: 10px;">
   <img src="https://github.com/SlowJii/SlowJii/raw/main/pepe_cuoi_cho.gif" alt="pepe laughing" style="border-radius: 50%; width: 200px; height: 200px; display: inline-block; margin: 10px;">
-  <img src="https://github.com/SlowJii/SlowJii/raw/main/dog-dancing-ezgif.com-reverse.gif" alt="dog dancing right" style="border-radius: 50%; width: 200px; height: 200px; display: inline-block; margin: 10px;">
+  <img src="https://github.com/SlowJii/SlowJii/raw/main/com-reverse-unscreen.gif" alt="dog dancing right" style="border-radius: 50%; width: 200px; height: 200px; display: inline-block; margin: 10px;">
 </p>
 
 
