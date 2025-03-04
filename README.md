@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hoanglb.work@gmail.com**
 
-- ⚡ Fun fact **I love meme**
+- ⚡ Fun fact **I love meme, lv6 Faceit & Legendary Eagle in CSGO and Top 33 server HK in WoT 6/2021**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
