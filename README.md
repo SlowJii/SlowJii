@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Le Hoang</h1>
-<h3 align="center">Data Engineer | Seeking Full-Time Data Engineer Job | Python, Java, C++, PostgreSQL, IBM Db2, Apache Spark, Apache Kafka, MySQL, MongoDB, Redis</h3>
+<h3 align="center">Data Engineer | Python, Java, C++, PostgreSQL, IBM Db2, Apache Spark, Apache Kafka, MySQL, MongoDB, Redis, DBT, Oracle</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slowjii&label=Profile%20views&color=0e75b6&style=flat" alt="slowjii" /> </p>
 
